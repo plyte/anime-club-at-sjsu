@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background-color: white;
+}
+
+.Nav {
+  text-align: left;
+  padding: 50px 0;
+  padding-left: 100px;
+  display: grid;
+  font: Roboto
+}
+
+.Nav a {
+  font-weight: normal;
+  padding: 10px 5px;
+  font-size: 1.25em;
+  color: black;
+}
+
+.Nav a:link {
+  text-decoration: none;
+}
+
+.Nav a:active {
+  text-decoration: underline;
+  border-bottom: 0.1em;
+  padding-bottom: .1em;
+}
