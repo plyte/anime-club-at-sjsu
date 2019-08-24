@@ -61,8 +61,8 @@
 }
 
 .Body p b {
-  padding-bottom: 1px;
-
+  padding-bottom: 2px;
+  font-size: 1.75em;
 }
 .Body p button {
   color: white;
