@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+    <defs>
+        <style>.a{fill:#58baf0;}.b{fill:#feda60;}.c{fill:gray;}</style>
+    </defs>
+    <title>background</title>
+    <polygon class="a" points="483 1080 1235.87 0 1920 0 1920 1080 483 1080"/>
+    <rect class="b" y="700" width="1920" height="200"/>
+    <ellipse class="c" cx="1647" cy="800" rx="172" ry="34.5"/>
+    <image width="821" height="2048" transform="translate(1444 21) scale(0.50)" src="./sachi.png"/>
+</svg>

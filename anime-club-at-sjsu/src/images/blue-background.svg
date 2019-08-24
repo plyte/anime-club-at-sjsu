@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 1080">
+    <defs>
+        <style>
+            .a {
+                fill:#58baf0;
+            }
+        </style>
+    </defs>
+    <title>blue-background</title>
+    <polygon class="a" points="126.82 0 0 200 316 1080 316 0 126.82 0"/>
+</svg>
